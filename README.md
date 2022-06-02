@@ -1,2 +1,2 @@
 # VisualG
- Atividades realizadas no VisualG - Lógica de Programação
+ Atividades realizadas no VisualG/Portugol Studio - Lógica de Programação 
